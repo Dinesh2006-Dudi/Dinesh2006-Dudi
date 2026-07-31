@@ -174,7 +174,7 @@ Corizo | 2 months
 
 # 🌐 Connect With Me
 
-LinkedIn: linkedin.com/in/dudi-dinesh-51b177333/
+LinkedIn: linkedin.com/in/dudi-dinesh-1aab48410/
 
 GitHub: github.com/Dinesh2006-Dudi
 
