@@ -156,13 +156,21 @@ Corizo | 2 months
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dinesh2006-Dudi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=Dinesh2006-Dudi&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Dinesh2006-Dudi&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&ring=7aa2f7&fire=7aa2f7" height="200"/>
 </p>
+
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dinesh2006-Dudi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh2006-Dudi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/y/Dinesh2006-Dudi?style=flat&color=7aa2f7&label=Yearly%20Commits" />
+  <img src="https://komarev.com/ghpvc/?username=Dinesh2006-Dudi&color=7aa2f7&style=flat&label=Profile+Views" />
+</p>
+
+### 🌱 Currently Learning
+- I currently learn Git,Docker,LLM'S,AI Agents.. 
 ---
 
 # 🏆 Achievements
