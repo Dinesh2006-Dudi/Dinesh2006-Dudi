@@ -157,9 +157,8 @@ Corizo | 2 months
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dinesh2006-Dudi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dinesh2006-Dudi&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Dinesh2006-Dudi&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh2006-Dudi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
 </p>
