@@ -165,12 +165,12 @@ Corizo | 2 months
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/Dinesh2006-Dudi?style=flat&color=7aa2f7&label=Yearly%20Commits" />
+  <img src="https://img.shields.io/github/commit-activity/y/Dinesh2006-Dudi/my-leetcode-solutions?style=flat&color=7aa2f7&label=Yearly%20Commits" />
   <img src="https://komarev.com/ghpvc/?username=Dinesh2006-Dudi&color=7aa2f7&style=flat&label=Profile+Views" />
 </p>
 
 ### 🌱 Currently Learning
-- I currently learn Git,Docker,LLM'S,AI Agents.. 
+- I currently learning Git,Docker,LLM'S,AI Agents.. 
 ---
 
 # 🏆 Achievements
