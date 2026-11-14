@@ -53,37 +53,63 @@ My approach is centered around continuous learning, problem-solving, and develop
 
 ## ⚡ TECH STACK & TECHNOLOGIES
 
-<div align="left">
+<div align="center">
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js&theme=dark" />
-
-**Python · C++ · Java · JavaScript**
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="45"/><br/>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="45"/><br/>C++</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="45"/><br/>Java</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="45"/><br/>JavaScript</td>
+</tr>
+</table>
 
 ### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,react,fastapi&theme=dark" />
-
-**HTML · CSS · React · FastAPI**
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="45"/><br/>HTML</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="45"/><br/>CSS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="45"/><br/>React</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="45"/><br/>FastAPI</td>
+</tr>
+</table>
 
 ### 🧠 AI / ML & Data Science
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" />
-
-**TensorFlow · PyTorch · Scikit-learn · OpenCV**
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="45"/><br/>TensorFlow</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="45"/><br/>PyTorch</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="45"/><br/>Scikit-learn</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="45"/><br/>OpenCV</td>
+</tr>
+</table>
 
 ### 🗄️ Databases & Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,vscode&theme=dark" />
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="45"/><br/>MySQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="45"/><br/>PostgreSQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="45"/><br/>MongoDB</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="45"/><br/>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="45"/><br/>GitHub</td>
+</tr>
+</table>
 
-**MySQL · PostgreSQL · MongoDB · Git · GitHub · VS Code**
+### ☁️ Cloud & Development Tools
 
-### ☁️ Cloud & Deployment
-
-<img src="https://skillicons.dev/icons?i=aws,docker,linux&theme=dark" />
-
-**AWS · Docker · Linux**
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="45"/><br/>AWS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="45"/><br/>Docker</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="45"/><br/>Linux</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="45"/><br/>VS Code</td>
+</tr>
+</table>
 
 </div>
 
