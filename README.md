@@ -18,34 +18,30 @@
 
 ## 👨‍💻 ABOUT ME
 
-python
-class Dinesh:
-    def __init__(self):
-        self.name = "Dinesh Dudi"
-        self.role = "Aspiring AI/ML Engineer"
-        self.education = "B.Tech - Artificial Intelligence & ML"
-        self.languages = ["Python", "C++", "Java"]
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Deep Learning",
-            "Generative AI",
-            "Data Science",
-            "Building Real-World Projects"
-        ]
-        self.current_focus = [
-            "Machine Learning",
-            "Data Structures & Algorithms",
-            "SQL",
-            "AI Engineering"
-            "AWS Cloud"
-            "AI AGENTS, MCP"
-        ]
+<div align="center">
 
-    def goal(self):
-        return "Build intelligent solutions that solve real-world problems."
+Building Intelligent Solutions Through AI & Machine Learning
 
-me = Dinesh()
+An aspiring AI/ML Engineer passionate about transforming data, algorithms, and emerging technologies into practical real-world solutions.
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+🎯 Professional Profile
+
+I'm a third-year B.Tech student specializing in Artificial Intelligence and Machine Learning, with a strong interest in developing intelligent applications and data-driven solutions.
+
+I enjoy exploring how AI can solve real-world challenges, experimenting with machine learning models, and building practical projects that connect theoretical knowledge with real-world applications.
+
+My approach is centered around continuous learning, problem-solving, and developing technology that creates meaningful impact.
+
+</td>
+<td width="45%" valign="top">
 
 
 - 🎓 B.Tech student specializing in Artificial Intelligence and Machine Learning.
