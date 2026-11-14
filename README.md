@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://github.com/Dinesh2006-Dudi">
-<img src="https://img.shields.io/badge/GitHub-Dinesh2006--Dudi-#15F2FD?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Dinesh2006--Dudi-15F2FD?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-7B2FF7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Status-Always%20Learning-00C853?style=for-the-badge"/>
