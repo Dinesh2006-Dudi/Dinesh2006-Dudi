@@ -18,7 +18,7 @@
 
 ## 👨‍💻 ABOUT ME
 
-```python
+python
 class Dinesh:
     def __init__(self):
         self.name = "Dinesh Dudi"
@@ -46,7 +46,7 @@ class Dinesh:
         return "Build intelligent solutions that solve real-world problems."
 
 me = Dinesh()
-```
+
 
 - 🎓 B.Tech student specializing in Artificial Intelligence and Machine Learning.
 - 🤖 Passionate about Machine Learning, AI and intelligent applications.
