@@ -18,7 +18,7 @@
 
 ## 👨‍💻 ABOUT ME
 
-<div align="center">
+<div align="left">
 
 Building Intelligent Solutions Through AI & Machine Learning
 
