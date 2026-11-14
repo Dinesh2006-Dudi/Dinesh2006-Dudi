@@ -40,8 +40,6 @@ I enjoy exploring how AI can solve real-world challenges, experimenting with mac
 
 My approach is centered around continuous learning, problem-solving, and developing technology that creates meaningful impact.
 
-</td>
-<td width="45%" valign="top">
 
 
 - 🎓 B.Tech student specializing in Artificial Intelligence and Machine Learning.
