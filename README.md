@@ -53,29 +53,39 @@ My approach is centered around continuous learning, problem-solving, and develop
 
 ## ⚡ TECH STACK & TECHNOLOGIES
 
-### Programming Languages
+<div align="center">
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
-</p>
+### 💻 Programming Languages
 
-### AI / Machine Learning
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js&theme=dark" />
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-</p>
+**Python · C++ · Java · JavaScript**
 
-### Data Science & Databases
+### 🌐 Web Development
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react,fastapi&theme=dark" />
 
-### Web Development & Tools
+**HTML · CSS · React · FastAPI**
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react,fastapi,git,github,vscode,docker,Kubernets" />
-</p>
+### 🧠 AI / ML & Data Science
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" />
+
+**TensorFlow · PyTorch · Scikit-learn · OpenCV**
+
+### 🗄️ Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,vscode&theme=dark" />
+
+**MySQL · PostgreSQL · MongoDB · Git · GitHub · VS Code**
+
+### ☁️ Cloud & Deployment
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux&theme=dark" />
+
+**AWS · Docker · Linux**
+
+</div>
 
 ### Libraries & Frameworks
 
