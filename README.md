@@ -1,192 +1,163 @@
-<h1 align="center">Hi 👋, I'm Dinesh Dudi</h1>
+ <div align="center">
 
-<h3 align="center">
-AI & Machine Learning Engineer | Building Intelligent Systems | MLOps Enthusiast
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:004e92,100:00d4ff&height=220&section=header&text=DINESH%20DUDI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20INNOVATION&descSize=16&descAlignY=55" width="100%"/>
 
-<p align="center">
-Transforming ideas into AI-powered products through Machine Learning, Generative AI, and Cloud Deployment.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Dinesh+Dudi+%F0%9F%91%8B;Aspiring+AI%2FML+Engineer+%F0%9F%A4%96;Turning+Data+into+Intelligence+%F0%9F%A7%A0;Building+the+Future+with+Artificial+Intelligence+%E2%9C%A8;Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Typing animation"/>
 
----
+<br/>
 
-# 🚀 About Me
+<a href="https://github.com/Dinesh2006-Dudi">
+<img src="https://img.shields.io/badge/GitHub-Dinesh2006--Dudi-00F7FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-7B2FF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Always%20Learning-00C853?style=for-the-badge"/>
 
-🎓 B.Tech Student passionate about Artificial Intelligence and Machine Learning  
-💡 Interested in building production-ready AI applications  
-🧠 Exploring Machine Learning, Deep Learning, Generative AI, and MLOps  
-📚 Continuously learning scalable AI system design  
-🌱 Currently working on advanced AI and recommendation system projects  
+</div>
 
 ---
 
-# 🎯 Career Objective
+## 👨‍💻 ABOUT ME
 
-To build impactful AI solutions that solve real-world problems and contribute to intelligent products while continuously improving engineering and research capabilities.
+```python
+class Dinesh:
+    def __init__(self):
+        self.name = "Dinesh Dudi"
+        self.role = "Aspiring AI/ML Engineer"
+        self.education = "B.Tech - Artificial Intelligence & ML"
+        self.languages = ["Python", "C++", "Java"]
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Deep Learning",
+            "Generative AI",
+            "Data Science",
+            "Building Real-World Projects"
+        ]
+        self.current_focus = [
+            "Machine Learning",
+            "Data Structures & Algorithms",
+            "SQL",
+            "AI Engineering"
+            "AWS Cloud"
+            "AI AGENTS, MCP"
+        ]
 
----
+    def goal(self):
+        return "Build intelligent solutions that solve real-world problems."
 
-# 🧠 Skills
+me = Dinesh()
+```
 
-### Programming
-- Python
-- C++
-- SQL
-
-### Machine Learning
-- Supervised Learning
-- Unsupervised Learning
-- Feature Engineering
-- Model Evaluation
-- Recommendation Systems
-
-### Deep Learning
-- Neural Networks
-- CNN
-- Transformers
-- Transfer Learning
-
-### Generative AI
-- Prompt Engineering
-- RAG
-- Vector Databases
-- LLM Applications
-
-### MLOps & Deployment
-- Docker
-- GitHub Actions
-- MLflow
-- CI/CD
-- Model Deployment
-
-### Cloud & DevOps
-- AWS
-- Streamlit
-- FastAPI
+- 🎓 B.Tech student specializing in Artificial Intelligence and Machine Learning.
+- 🤖 Passionate about Machine Learning, AI and intelligent applications.
+- 💡 Interested in transforming real-world problems into technology solutions.
+- 🌱 Currently strengthening my knowledge in ML, Deep Learning and AI AGENTS.
+- 🔍 Exploring Generative AI, LLMs, AI Agents and modern AI technologies.
+- 🚀 Believe in learning by building practical projects.
 
 ---
 
-# 🛠️ Technologies & Tools
+## ⚡ TECH STACK & TECHNOLOGIES
+
+### Programming Languages
 
 <p align="left">
-
-Python • TensorFlow • PyTorch • Scikit-Learn • Pandas • NumPy
-
-Git • GitHub • Docker • AWS • Streamlit
-
-VS Code • Jupyter • MySQL • Linux
-
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
 </p>
 
----
+### AI / Machine Learning
 
-# ⭐ Featured Projects
-
-## 🎬 Netflix Recommendation System
-Personalized recommendation platform using Machine Learning.
-
-### Features
-✔ Personalized recommendations  
-✔ Similar content discovery  
-✔ Interactive dashboard  
-✔ End-to-end ML workflow  
-
-**Tech Stack:**  
-Python • Scikit-Learn • Streamlit
-
----
-
-## 🤖 AI Assistant (RAG)
-Document-based conversational AI system.
-
-### Features
-✔ Upload documents  
-✔ Context-aware responses  
-✔ Semantic search  
-
-**Tech Stack:**  
-Python • LangChain • Vector Database
-
----
-
-## 🏠 House Price Prediction
-Machine learning model to estimate house prices.
-
-### Features
-✔ Data preprocessing  
-✔ Feature engineering  
-✔ Model deployment  
-
-**Tech Stack:**  
-Python • Regression • Streamlit
-
----
-
-# 📈 Experience & Internship
-
-### AI / ML Projects
-- Developed end-to-end machine learning applications
-- Built deployment-ready AI solutions
-- Worked on model evaluation and optimization
-
-### Internship Experience
-
-**Machine Learning Intern**  
-Corizo | 2 months
-
-- Developed ML models
-- Improved prediction performance
-- Collaborated on deployment
-
----
-
-# 🧩 Areas of Interest
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Generative AI
-- MLOps
-- Recommendation Systems
-- Data Science
-
----
-## 📊 GitHub Statistics
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dinesh2006-Dudi&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&ring=7aa2f7&fire=7aa2f7" height="200"/>
-</p>
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Dinesh2006-Dudi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&cache_seconds=86400" height="180"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dinesh2006-Dudi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" height="180"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/Dinesh2006-Dudi/my-leetcode-solutions?style=flat&color=7aa2f7&label=Yearly%20Commits" />
-  <img src="https://komarev.com/ghpvc/?username=Dinesh2006-Dudi&color=7aa2f7&style=flat&label=Profile+Views" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 </p>
 
+### Data Science & Databases
 
-### 🌱 Currently Learning
-- I currently learning Git,Docker,LLM'S,AI Agents.. 
----
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</p>
 
-# 🏆 Achievements
+### Web Development & Tools
 
-✔ Built end-to-end AI applications  
-✔ Continuously improving deployment and engineering skills  
-✔ Active learner in AI ecosystem  
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react,fastapi,git,github,vscode,docker,Kubernets" />
+</p>
 
----
+### Libraries & Frameworks
 
-# 🌐 Connect With Me
-
-LinkedIn: linkedin.com/in/dudi-dinesh-1aab48410/
-
-GitHub: github.com/Dinesh2006-Dudi
-
-Email: dineshdudi211@gmail.com
+`NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn` · `XGBoost` · `Gradio`
 
 ---
 
-# 💬 Quote
+## 🧠 CURRENT LEARNING JOURNEY
 
-> "Building AI systems that create measurable impact."
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&color=00F7FF&width=650&lines=Learning+Machine+Learning+%F0%9F%A4%96;Exploring+Deep+Learning+%F0%9F%A7%A0;Understanding+LLMs+and+RAG+%F0%9F%93%9A;Building+AI+Agents+%F0%9F%A4%9D;Moving+Towards+AI+Engineering+%F0%9F%9A%80" alt="Learning journey"/>
+
+- [ ] Advanced Data Structures and Algorithms
+- [ ] Machine Learning algorithms
+- [ ] Deep Learning fundamentals
+- [ ] Generative AI and LLM applications
+- [ ] Retrieval-Augmented Generation (RAG)
+- [ ] AI Agents and Tool Calling
+- [ ] Model Deployment and MLOps
+- [ ] Cloud and AWS fundamentals
+
+---
+
+## 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dinesh2006-Dudi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh2006-Dudi&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Dinesh2006-Dudi&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Dinesh2006-Dudi/Dinesh2006-Dudi/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
+
+</div>
+
+---
+
+## 🏆 ACHIEVEMENTS & ACTIVITIES
+
+- ⭐ Practicing 300+ problems on LeetCode.
+- 🏅 Earned Python,c++,java 5* on HackerRank.
+- 📜 Completed certifications in Generative AI and AWS fundamentals.
+
+---
+
+## 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/Dinesh2006-Dudi">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dudi-dinesh-1aab48410/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 "Dream Big. Build Smart. Innovate Fearlessly."
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Thank you animation"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:004e92,100:020024&height=120&section=footer" width="100%"/>
+
+</div>
