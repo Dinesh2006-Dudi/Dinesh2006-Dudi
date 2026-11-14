@@ -53,7 +53,7 @@ My approach is centered around continuous learning, problem-solving, and develop
 
 ## ⚡ TECH STACK & TECHNOLOGIES
 
-<div align="center">
+<div align="left">
 
 ### 💻 Programming Languages
 
